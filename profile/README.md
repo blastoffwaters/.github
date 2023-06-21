@@ -7,3 +7,5 @@
 👩‍💻 We will have our documentation [here](https://docs.blastoffwaters.com), but not yet.
 
 🍿 We normally eat what's available, as we are mainly a work from home team.
+
+🤵Our CEO is **@bowfun**.
