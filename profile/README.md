@@ -8,4 +8,4 @@
 
 🍿 We normally eat what's available, as we are mainly a work from home team.
 
-🤵Our CEO is **@bowfun**.
+🤵Our CEO is [**@bowfun**](https://github.com/bowfun).
