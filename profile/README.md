@@ -1,11 +1,30 @@
-## Hi there 👋
+## Welcome to Blast Off Waters! 👋
 
-🙋‍♀️ We are focused on improving the world with software.
+🚀 **About Us:**
+- Focused on innovating for a better world through software solutions.
+- Utilizing Next.JS for websites, Electron for desktop, and Expo for mobile.
 
-🌈 We have some open-source programs, which people can submit pull requests on to help us.
+🌐 **Our Projects:**
+- 🎥 **VideoForger:** Streamlining YouTube video creation.
+- 🖥️ **BowFiles:** Advanced AI-powered desktop file manager.
+- 🎮 **Bow Network - Minecraft Server:** Join the gaming adventure! (Bow Network has a GitHub account with more info: [**@bownetwork**](https://github.com/bownetwork))
 
-👩‍💻 We will have our documentation [here](https://docs.blastoffwaters.com), but not yet.
+🎉 **Fun Facts:**
+- Our team loves to chat on our Discord, which is found at [discord.blastoffwaters.com](https://discord.blastoffwaters.com).
+- We are a fully remote team with future plans for an office.
+- We have a #food-reviews channel in our Slack.
 
-🍿 We normally eat what's available, as we are mainly a work from home team.
+👩‍💻 **Contribute:**
+- Explore our open-source projects and submit pull requests to contribute!
 
-🤵Our CEO is [**@bowfun**](https://github.com/bowfun).
+👉 **Documentation:**
+- Check out our documentation [here](https://docs.blastoffwaters.com) (Under construction).
+
+🍿 **Team Culture:**
+- We work from home, so we eat what we can find :)
+
+🤵 **Leadership:**
+- CEO: [**@bowfun**](https://github.com/bowfun)
+
+Join us in crafting a better future through code! 🌟
+
