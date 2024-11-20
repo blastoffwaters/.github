@@ -7,7 +7,6 @@
 🌐 **Our Projects:**
 - 🎥 **VideoForger:** Streamlining YouTube video creation.
 - 🖥️ **BowFiles:** Advanced AI-powered desktop file manager.
-- 🎮 **Bow Network - Minecraft Server:** Join the gaming adventure! (Bow Network has a GitHub account with more info: [**@bownetwork**](https://github.com/bownetwork))
 
 🎉 **Fun Facts:**
 - Our team loves to chat on our Discord!
